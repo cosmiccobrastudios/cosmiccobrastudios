@@ -1,6 +1,5 @@
 # Cosmic Cobra Studios  
 
-![Cosmic Cobra Studios Banner](https://your-banner-image-url.com)  
 
 ## 🚀 Welcome to Cosmic Cobra Studios!  
 
